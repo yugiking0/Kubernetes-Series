@@ -8,6 +8,6 @@ https://yugiking0.github.io/Kubernetes-Series
 
 Bài 1: Kubernetes là gì?
 
-- Xem [Sync. vs. Async](./detail/39/index.md)
+- Xem [Sync. vs. Async](./01/index.md)
 
 Bài 2: Kubernetes là gì?
