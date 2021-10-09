@@ -2,7 +2,7 @@
 
 ---
 
-https://yugiking0.github.io/Kubernetes-Series
+[Page](https://yugiking0.github.io/Kubernetes-Series)
 
 <!-- ![Console](./images/001.png "Console") -->
 

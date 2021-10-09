@@ -2,6 +2,8 @@
 
 ---
 
+[Github] (https://github.com/yugiking0/Kubernetes-Series)
+
 ## 1. **_`Kubernetes`_** là gì?
 
 **_`Kubernetes`_** (hay k8s) là một nền tảng open-source được dùng để quản lý container và được phát triển bởi google. Có thể dùng **_`kubernetes`_** để phát triển ứng dụng trên nhiều nền tảng khác nhau như on-premise, cloud, or virtual machines. Hiện nay **_`kubernetes`_** được sử dụng bởi nhiều công ty lớn trong việc vận hành phần mền, phát triển ứng dụng và có cộng đồng rất lớn.
