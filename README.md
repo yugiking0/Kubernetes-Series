@@ -1,6 +1,8 @@
 # Kubernetes Series
 
-https://github.com/yugiking0/Kubernetes-Series
+---
+
+https://yugiking0.github.io/Kubernetes-Series
 
 <!-- ![Console](./images/001.png "Console") -->
 
